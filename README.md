@@ -54,29 +54,20 @@ amazon-prime-data-analytics/
 
 ## 🖼️ Dashboard Preview
 
-> Include a screenshot of your Power BI dashboard if you have one:
+> Power BI dashboard 
 
-![Dashboard Preview](./dashboard/prime_dashboard.png)
+![Dashboard Preview]
+(<img width="589" alt="image" src="https://github.com/user-attachments/assets/0431842e-3f2b-4339-8fd7-ebc4e66fdcc8" />
+)
 
 ---
 
 ## 📄 Project Files
 
-- `amazon_prime_analysis.ipynb` – Python EDA
-- `amazon_prime.pbix` – Power BI dashboard file
-- `amazon_prime_cleaned.csv` – Cleaned dataset
+- `amazon_prime_cleaned csv: [amazon prime.pdf](https://github.com/user-attachments/files/20843991/amazon.prime.pdf) – Cleaned dataset
 - `README.md` – Documentation
 
----
 
-## 🚀 How to Use
-
-1. Clone the repository:
-   ```
-   git clone https://github.com/yourusername/amazon-prime-data-analytics.git
-   ```
-2. Open the notebook to explore the data
-3. Open the `.pbix` file in Power BI to interact with the dashboard
 
 ---
 
