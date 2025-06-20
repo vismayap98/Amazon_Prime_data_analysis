@@ -56,7 +56,6 @@ amazon-prime-data-analytics/
 
 > Power BI dashboard 
 
-![Dashboard Preview]
 (<img width="589" alt="image" src="https://github.com/user-attachments/assets/0431842e-3f2b-4339-8fd7-ebc4e66fdcc8" />
 )
 
